@@ -48,4 +48,4 @@ seaborn==0.10.1
     # via -r requirements.in
 six==1.16.0
     # via python-dateutil
-lxml==4.5.1
+lxml==4.9.2
